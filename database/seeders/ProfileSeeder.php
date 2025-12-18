@@ -21,8 +21,8 @@ class ProfileSeeder extends Seeder
             'phone' => '+62 813-1234-5678',
             'address' => 'Jl. Merdeka No.123, Jambi, Indonesia',
             'instagram' => 'sinemakajanglako',
-            'facebook' => 'sinemakajanglako',
-            'twitter' => 'sinemakajanglako',
+            'youtube' => 'sinemakajanglako',
+            'website' => 'sinemakajanglako',
         ]);
     }
 }
